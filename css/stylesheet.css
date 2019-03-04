@@ -1,0 +1,36 @@
+.content .box{
+	display: flex;
+	justify-content: center;
+}
+.content .box a{
+	text-align: center;
+	color: #000;
+	text-decoration: none;
+	font-size: 20px;
+	position: relative;
+}
+.content .box a:before{
+	content: '';
+	position: absolute;
+	top: 0;
+	width: 0;
+	height: 2px;
+	left: 50%;
+	background: red;
+	transition: 0.3s all ease-in-out;
+}
+.content .box a:after{
+	content: '';
+	position: absolute;
+	bottom: 0;
+	width: 0;
+	height: 2px;
+	left: 50%;
+	background: red;
+	transition: 0.3s all ease-in-out;
+}
+.content .box a:hover:before, .content .box a:hover:after{
+	width: 100%;
+	left: 0;
+	right: 0;
+}
