@@ -2,23 +2,33 @@
   "employeeList": {
       "employee": [{
         "id": "1",
-        "image": "Java",
+        "image": "None",
         "code": "0001",
         "name": "Tanca Manager",
         "phone": "+849800009999",
         "branch": "Tanca trụ sở",
-        "department": "+849800009999",
-        "position": "Giám đốc",
+        "department": "Giám đốc",
+        "position": "Quản lý",
         "status": "Đang làm việc"
       }, {
         "id": "2",
-        "image": "bbb",
+        "image": "None",
         "code": "0002",
-        "name": "Tanca Manager",
-        "phone": "+849800009999",
+        "name": "Trần Chí Công",
+        "phone": "+849800001111",
         "branch": "Tanca trụ sở",
         "department": "Kinh doanh",
-        "position": "Quản lý",
+        "position": "Quản lý Chi nhánh",
+        "status": "Đang làm việc"
+      },{
+        "id": "3",
+        "image": "None",
+        "code": "0003",
+        "name": "Hà Tuấn Hoàng",
+        "phone": "+849800002222",
+        "branch": "Tanca Võ Thị Sáu",
+        "department": "Pha chế",
+        "position": "Nhân viên",
         "status": "Đang làm việc"
       }]
     }
