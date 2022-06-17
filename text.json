@@ -1,0 +1,25 @@
+{
+  "employeeList": {
+      "employee": [{
+        "id": "1",
+        "image": "Java",
+        "code": "0001",
+        "name": "Tanca Manager",
+        "phone": "+849800009999",
+        "branch": "Tanca trụ sở",
+        "department": "+849800009999",
+        "position": "Giám đốc",
+        "status": "Đang làm việc"
+      }, {
+        "id": "2",
+        "image": "bbb",
+        "code": "0002",
+        "name": "Tanca Manager",
+        "phone": "+849800009999",
+        "branch": "Tanca trụ sở",
+        "department": "Kinh doanh",
+        "position": "Quản lý",
+        "status": "Đang làm việc"
+      }]
+    }
+  }
